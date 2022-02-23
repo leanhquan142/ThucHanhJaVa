@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  *
- * @author FPTSHOP
+ * 
  */
 public class App2 {
     public static void main(String[] args) {
